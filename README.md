@@ -26,9 +26,7 @@ You need to have Python and pip installed on your system.
 
 1.  Clone the repo: 
     ```sh
-    &nbsp
     git clone [https://github.com/Aditya-scp/Text-Summarizer](https://github.com/Aditya-scp/Text-Summarizer)
-    &nbsp
     ```
     &nbsp 
 3.  Navigate into the project directory:
