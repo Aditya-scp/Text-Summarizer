@@ -25,18 +25,20 @@ You need to have Python and pip installed on your system.
 ### Installation
 
 1.  Clone the repo:
+&nbsp 
     ```sh
-    &nbsp git clone [https://github.com/Aditya-scp/Text-Summarizer](https://github.com/Aditya-scp/Text-Summarizer) &nbsp
+    git clone [https://github.com/Aditya-scp/Text-Summarizer](https://github.com/Aditya-scp/Text-Summarizer)
     ```
-2.  Navigate into the project directory:
+    &nbsp 
+3.  Navigate into the project directory:
     ```sh
     cd text-summarizer
     ```
-3.  Install the required Python packages:
+4.  Install the required Python packages:
     ```sh
     pip install -r requirements.txt
     ```
-4.  Download the necessary spaCy language model:
+5.  Download the necessary spaCy language model:
     ```sh
     python -m spacy download en_core_web_sm
     ```
