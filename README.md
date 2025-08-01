@@ -28,7 +28,6 @@ You need to have Python and pip installed on your system.
     ```sh
     git clone [https://github.com/Aditya-scp/Text-Summarizer](https://github.com/Aditya-scp/Text-Summarizer)
     ```
-    &nbsp 
 3.  Navigate into the project directory:
     ```sh
     cd text-summarizer
